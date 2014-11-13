@@ -1,6 +1,6 @@
-package jason.example;
+package jason.example.list;
 
-import jason.example.dataobject.LinkedListNode;
+import jason.example.list.dataobject.LinkedListNode;
 
 public class LinkedList {
     private LinkedListNode head;

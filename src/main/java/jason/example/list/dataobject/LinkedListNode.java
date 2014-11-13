@@ -1,4 +1,4 @@
-package jason.example.dataobject;
+package jason.example.list.dataobject;
 
 public class LinkedListNode {
 
